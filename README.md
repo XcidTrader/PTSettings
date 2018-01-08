@@ -9,4 +9,4 @@ Therefore buy some BNB on biance. 0.02 is fine.
 There are notes in the pairs about this strat. 
 
 You can find us on telegram
-# @XcidTrader & @wyukig
+@XcidTrader & @wyukig
