@@ -1,6 +1,6 @@
 # Biannce Profit Trailer Settings
 
-My Balance on BTC = 0.4
+Start Balance on BTC was = 0.4
 Returns are 300 - 600 USD
 
 This trading is using BNB coin to reduce trading fees. 
