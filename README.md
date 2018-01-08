@@ -1,4 +1,4 @@
-# Biannce Profit Trailer Settings
+# Profit Trailer Settings - Binance
 
 Start Balance on BTC was = 0.4
 Returns are 300 - 600 USD
