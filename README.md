@@ -11,6 +11,6 @@ There are notes in the pairs about this strat.
 You can find us on telegram
 @XcidTrader & @wyukig
 
-#IF YOU WOULD LIKE TO TIP ME
-#BINANCE REF: https://www.binance.com/?ef=12705936
-#BTC:1ApP5FgjSwCT4QVHRwCrvr7dCCvUErcL7z
+IF YOU WOULD LIKE TO TIP ME
+BINANCE REF: https://www.binance.com/?ef=12705936
+BTC WALLET:1ApP5FgjSwCT4QVHRwCrvr7dCCvUErcL7z
